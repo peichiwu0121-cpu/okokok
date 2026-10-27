@@ -1,0 +1,13 @@
+{
+  "name": "finance-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "理財目標規劃工具（PV / FV / PMT）",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
